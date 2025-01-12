@@ -1,0 +1,206 @@
+{
+    "intents": [
+    {
+        "tag": "greeting",
+        "patterns": [
+            "Hi",
+            "Hey",
+            "Hello",
+            "Anyone there?",
+            "How are you?",
+            "What's up?",
+            "Yo",
+            "Good day"
+        ],
+        "responses": [
+            "Hey there! How can I assist you today?",
+            "Hello, it's great to see you! How's everything?",
+            "Hi, what's going on with you today?",
+            "Hey there, how can I make your day better?"
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "Bye",
+            "See you later",
+            "Goodbye",
+            "Goodnight",
+            "Catch you later",
+            "Take care"
+        ],
+        "responses": [
+            "See you later, take care!",
+            "Goodbye! Have a fantastic day!",
+            "Take care, and don't hesitate to reach out again.",
+            "Adios, have a wonderful day ahead!"
+        ]
+    },
+    {
+        "tag": "thanks",
+        "patterns": [
+            "thanks a lot",
+            "this helps",
+            "I needed this",
+            "Thank you",
+            "That was helpful",
+            "I appreciate it"
+        ],
+        "responses": [
+            "You're welcome! I'm happy I could help.",
+            "Anytime! I'm here whenever you need me.",
+            "Glad I could help! Don't hesitate to reach out again.",
+            "It was my pleasure! Reach out anytime you need more assistance."
+        ]
+    },
+    {
+        "tag": "sad",
+        "patterns": [
+            "feeling sad",
+            "depressed",
+            "depressing",
+            "unhappy",
+            "angry",
+            "tired",
+            "I want space",
+            "restriction",
+            "lost",
+            "rough day",
+            "low",
+            "feeling down",
+            "can't shake it off"
+        ],
+        "responses": [
+            "I'm sorry you're feeling this way. It's okay to feel down sometimes.",
+            "Don't worry, it's just a phase. You've got this!",
+            "Take a deep breath, tomorrow is a new day.",
+            "You're stronger than you know. It's okay to take a break.",
+            "I'm here if you want to talk more about it.",
+            "You're not alone, and things will get better."
+        ]
+    },
+    {
+        "tag": "happy",
+        "patterns": [
+            "overwhelmed",
+            "satisfied",
+            "happy",
+            "fortunate",
+            "grateful",
+            "excited",
+            "joyful",
+            "cheerful"
+        ],
+        "responses": [
+            "That's amazing! Keep that positivity going.",
+            "I'm so happy for you! Keep smiling!",
+            "I'm glad you're feeling great! Tell me more about what's making you happy.",
+            "That's fantastic! I'm here to celebrate with you!"
+        ]
+    },
+    {
+        "tag": "drytext",
+        "patterns": [
+            "nothing much",
+            "its ok",
+            "good",
+            "I am good",
+            "fine",
+            "yes",
+            "I do",
+            "but",
+            "I know",
+            "not really",
+            "meh"
+        ],
+        "responses": [
+            "Hmm, seems like you're keeping it low-key today. Anything you'd like to talk about?",
+            "Is something on your mind? I'm all ears!",
+            "Anything exciting happening today?",
+            "How's everything really going?"
+        ]
+    },
+    {
+        "tag": "stress",
+        "patterns": [
+            "offline exams",
+            "exams",
+            "papers",
+            "stress",
+            "work load",
+            "getting fat",
+            "financial issues",
+            "too much work",
+            "pressure"
+        ],
+        "responses": [
+            "I understand, stress can be overwhelming. Want to talk more about what's bothering you?",
+            "You’re doing your best, and that’s enough. Take a deep breath.",
+            "I know it feels tough now, but you will push through this!",
+            "You're capable of handling this! Let me know if I can help in any way."
+        ]
+    },
+    {
+        "tag": "links",
+        "patterns": [
+            "bored",
+            "nothing to do",
+            "no work",
+            "need to get my mind off it",
+            "feeling unproductive"
+        ],
+        "responses": [
+            "How about we explore some interesting web series? I’ve got suggestions for you!",
+            "I can create a custom playlist to match your mood. Check it out: shorturl.at/tHLV2",
+            "Wanna play some mind games to pass the time?"
+        ]
+    },
+    {
+        "tag": "therapist",
+        "patterns": [
+            "Counselor",
+            "therapist",
+            "I need someone to talk to",
+            "Can you connect me to a therapist",
+            "therapy",
+            "I need professional help"
+        ],
+        "responses": [
+            "Sure, let's get you connected: (+914) 066202000",
+            "I can help connect you: +91 80 23655557",
+            "Here's a therapist you can reach: (+918) 322252525",
+            "Connecting you to a therapist: (914) 424640050",
+            "If you need a therapist, contact: (186) 02662345",
+            "For professional support, reach: (919) 922001122"
+        ]
+    },
+    {
+        "tag": "1590140",
+        "patterns": ["What does it mean to have a mental illness?"],
+        "responses": [
+            "Mental illness affects a person's thoughts, emotions, relationships, and daily activities. It can be mild or severe, and is a medical condition, just like diabetes is for the pancreas. Mental health disorders are treatable with the right combination of medications and support, which can significantly improve a person's quality of life."
+        ]
+    },
+    {
+        "tag": "2110618",
+        "patterns": ["Who does mental illness affect?"],
+        "responses": [
+            "Mental illness affects 1 in 5 adults. It does not discriminate, and can impact anyone, no matter their background, age, or status. Mental health conditions can be particularly hard to detect in youth, as changes in behavior can mimic normal developmental shifts. But awareness is key for early intervention."
+        ]
+    },
+    {
+        "tag": "6361820",
+        "patterns": ["What causes mental illness?"],
+        "responses": [
+            "Mental illness can be influenced by a range of factors, including genetics, brain chemistry, and environmental stressors. It doesn’t matter your age, gender, or social background – mental health disorders can affect anyone."
+        ]
+    },
+    {
+        "tag": "9434130",
+        "patterns": ["What are some of the warning signs of mental illness?"],
+        "responses": [
+            "Warning signs vary but often include prolonged feelings of sadness or irritability, sudden mood swings, social withdrawal, excessive fear, changes in eating or sleeping habits, or substance abuse. If these signs persist, it's important to seek help."
+        ]
+    }
+    ]
+}
